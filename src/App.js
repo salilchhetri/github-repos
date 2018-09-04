@@ -66,7 +66,6 @@ class App extends Component {
 
   componentDidMount() {
     this.setState({ isLoading: false });
-    this.fetchRepositories('octocat')
   }
 
   render() {
