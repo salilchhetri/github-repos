@@ -1,0 +1,27 @@
+.repo-card{
+  background:#eee;
+  max-height: 9.12em;
+  min-height: 9.12em;
+  .card-text{
+    white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #444;
+  }
+  .card-title{
+    color: #000000;
+    font-weight: bold;
+  }
+}
+.repoLink{
+  text-decoration: none!important;
+}
+.insights{
+  border: 1px solid #444;
+  padding: .3em;
+  position: relative;
+  top: 10px;
+  border-radius: .3em;
+  margin-right: .6em; 
+  color: #444;
+}
