@@ -1,4 +1,4 @@
 export const appConfig = {
   apiEndpoint: 'https://api.github.com/graphql',
-  token: '0710d90d571f6a66286a9ab6837055e6b84df324'
+  token: 'b44a6fe14b25168ff2d40290042e90a6bc68e6a4'
 };
